@@ -1,35 +1,37 @@
-To run the project, use the following command:
+要运行项目，请使用以下命令：
 
 
-Change directory to your generated project and issue the following commands:
+将目录更改为您生成的项目，然后发出以下命令：
 
 
-* run in one terminal window:
+*在一个终端窗口中运行：
 
     - mvn clean install
 
-* run in client module either:
+*在客户端模块中运行：
 
     - mvn gwt:codeserver
       or
       mvn gwt:devmode
 
-* in another terminal window:
+*在另一个终端窗口中：
 
-* run in server module:
+*在服务器模块中运行：
 
     - mvn spring-boot:run -P env-dev
 
-To start the application, call:
+要启动该应用程序，请访问：
 
 -> http://localhost:8080/MyTestProject.html
 
 
-Running
+*打包运行
 
 - mvn clean install
 
-on the parent module will create a executable war file in the "MyTestProject-server" module, which can be run using
+在 "MyTestProject-server" 模块中, 使用
 
 java -jar MyTestProject-server\target\MyTestProject-server-1.0.0.war
+
+
 
