@@ -33,5 +33,7 @@
 
 java -jar MyTestProject-server\target\MyTestProject-server-1.0.0.war
 
+文档地址：http://81.70.216.8:8182/MyDocument.html
+
 
 
