@@ -21,7 +21,7 @@
     java -jar MyTestProject-server\target\MyTestProject-server-1.0.0.war
 
 ----------------------------------------------------------------------------------------------
-使用 dominokit 自建文档地址：http://81.70.216.8:8182/MyDocument.html
+使用 dominokit 自建文档地址：http://www.liujf.xyz/MyDocument.html
 
 
 
