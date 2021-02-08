@@ -20,11 +20,8 @@
 在 "MyTestProject-server" 模块中, 使用
     java -jar MyTestProject-server\target\MyTestProject-server-1.0.0.war
 
-----------------------------------------------------------------------------------------------
-使用 dominokit 自建文档地址：http://www.liujf.xyz/MyDocument.html
-
 ------------------------------------------------------------------------
 
-使用 Domino-ui 所搭建的文档：http://www.liujf.xyz/MyDocument.html
+使用 Domino-ui 自建文档：http://www.liujf.xyz/MyDocument.html
 
 
