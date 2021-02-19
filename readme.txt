@@ -22,6 +22,6 @@
 
 ------------------------------------------------------------------------
 
-使用 Domino-ui 自建文档：http://www.liujf.xyz/MyDocument.html
+使用 Domino-ui 自建文档：http://www.liujf.xyz/document.html
 
 
