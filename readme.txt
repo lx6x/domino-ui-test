@@ -20,8 +20,5 @@
 在 "MyTestProject-server" 模块中, 使用
     java -jar MyTestProject-server\target\MyTestProject-server-1.0.0.war
 
-------------------------------------------------------------------------
-
-使用 Domino-ui 自建文档：http://www.liujf.xyz/document.html
 
 
