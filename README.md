@@ -11,7 +11,7 @@
 ### 单个项目结构
 
 前端所用：Domino-Ui，使用 Java 去编写页面，通过 GWT 编译成前端代码运行。  
-后端：SpringBoot 不做解释，后期还会添加 zk/redis/nacos ... 等各种组件。
+后端：SpringBoot，后期还会添加 zk/redis/nacos ... 等各种组件。
 
 Domino-Ui 项目创建参考文献：
 
@@ -22,3 +22,6 @@ Domino-Ui 项目创建参考文献：
 ### 运行
 
 * 运行方式参考：www.liujf.xyz/document.html 【使用 Domino-Ui 自建文档】
+
+### 项目源码等项目结构完善后在具体放出
+### 持续更新
