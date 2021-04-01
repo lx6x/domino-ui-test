@@ -23,5 +23,5 @@ Domino-Ui 项目创建参考文献：
 
 * 运行方式参考：www.liujf.xyz/document.html 【使用 Domino-Ui 自建文档】
 
-### 项目源码等项目结构完善后在具体放出
+### 文档项目源码在另一个 document-all 包中，等项目结构完善后在进行放出
 ### 持续更新 ...
